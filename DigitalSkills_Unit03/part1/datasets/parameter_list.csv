@@ -1,0 +1,7 @@
+name,column_name,units,graph_colour,graph_label
+wind speed,ws,m/s,blue,Wind Speed / $ms^{-1}$ 
+wind direction,wd,degrees,orange,Wind Direction / degrees
+Nitrogen Monoxide,NO,ug/m^3,green,NO / $ug/m^3$
+Nitrogen Dioxide,NO2,ug/m^3,red,NO$_2$ / $ug/m^3$
+Particulate Matter 10,PM10,ug/m^3,brown,PM$_{10}$ / $ug/m^3$
+Particulate Matter 2.5,PM2.5,ug/m^3,pink,PM$_{2.5}$ / $ug/m^3$
