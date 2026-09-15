@@ -1,3 +1,0 @@
-from .assessment_checker import Temp_list_1, Temp_list_2, Temp_list_3, Temp_array_1, Temp_array_2, Temp_array_3, peak_lists, list_of_peak_lists, Atomic_mass_dict_testing, error_handling_wrapper, function_exists, \
-                                    quick_check, check_conversion, uses_numpy, check_numpy, mass_check, mass_check_output, mass_Key_error, variable_exists, peak_check, peak_check_marks
-                                    
